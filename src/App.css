@@ -1,0 +1,11 @@
+
+.app {
+  min-height: 100vh;
+  padding: 1px;
+  background-color: #eef2ff;
+}
+
+
+* {
+  box-sizing: border-box;
+}
